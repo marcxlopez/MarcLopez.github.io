@@ -8,7 +8,7 @@ library(shinydashboard)
 #  library(shinydashboard)
 #  library(shinydashboardPlus)
 # Cargamos los datos necesarios
-#path <- 'E:/DOCENCIA/TFG Alumnos/MARC LOPEZ/REPOSITORIO/data/'
+
 path <- 'C:/Users/marcl/Desktop/TFG/GITHUB TFG/data/'
 datos <- read.csv2(paste0(path, 'HotelesImputados.csv'))
 
